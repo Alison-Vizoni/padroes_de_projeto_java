@@ -1,4 +1,4 @@
-package br.com.alison.padroes_de_projeto;
+package br.com.alison.padroes_de_projeto.prototype;
 
 import java.util.ArrayList;
 import java.util.List;
