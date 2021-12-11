@@ -1,4 +1,4 @@
-package br.com.alison.padroes_de_projeto.prototype;
+package br.com.alison.padroes_de_projeto.padroes_comportamentais.prototype;
 
 public class Retangulo extends Forma{
     public int largura;

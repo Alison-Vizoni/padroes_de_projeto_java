@@ -1,9 +1,9 @@
-package br.com.alison.padroes_de_projeto.prototype;
+package br.com.alison.padroes_de_projeto.padroes_comportamentais.prototype;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Utilização {
+public class Utilizacao {
     public static void main(String[] args) {
         List<Forma> formas = new ArrayList<>();
         List<Forma> copiaDasFormas = new ArrayList<>();
